@@ -7,6 +7,10 @@
  * [x]randomize 2d grid
  * [x]row sort 2d grid
  * [x]accept string array of colors as input
+ * [-]print grid as html?
+ * []rgb hex color list
+ * []color list from file
+ * []define sorted type list(human warm to cool sort) 
  * 
  * misc ideas:
  * favorite color generator
